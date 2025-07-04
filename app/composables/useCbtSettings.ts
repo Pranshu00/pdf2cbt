@@ -17,15 +17,15 @@ const defaultUiSettings: CbtUiSettings = {
 
   themes: {
     base: {
-      bgColor: '#ffffff',
+      bgColor: '#f5f6fa',
       textColor: '#000000',
     },
     primary: {
-      bgColor: '#7d00b3',
+      bgColor: '#003366',
       textColor: '#ffffff',
     },
     secondary: {
-      bgColor: '#daeff8',
+      bgColor: '#edf1f5',
       textColor: '#000000',
     },
   },
@@ -53,7 +53,7 @@ const defaultUiSettings: CbtUiSettings = {
     quesIcons: {
       answered: {
         image: '',
-        textColor: '#000000',
+        textColor: '#ffffff',
         iconSize: 3.2,
         numberTextFontSize: 1.1,
         summaryIconSize: 2.5,
@@ -62,7 +62,7 @@ const defaultUiSettings: CbtUiSettings = {
       },
       notAnswered: {
         image: '',
-        textColor: '#000000',
+        textColor: '#ffffff',
         iconSize: 3.2,
         numberTextFontSize: 1.1,
         summaryIconSize: 2.5,
